@@ -40,3 +40,7 @@ No third-party libraries are used
 How to Run
 Insert your NewsAPI key
 Build and run on iOS 17+
+
+
+![Task](https://github.com/KirillHomy/VRG_Soft_Test_Task/blob/main/TestTask_DEV_iOS_PDF.jpg)
+
